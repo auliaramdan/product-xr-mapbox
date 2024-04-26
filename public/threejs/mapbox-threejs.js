@@ -96,8 +96,6 @@ function init(map, gl)
             }
         })
 
-        model.position.x = -10
-
         model.scale.set(0.01, 0.01, 0.01)
         this.scene.add(model)
     })
