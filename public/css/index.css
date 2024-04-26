@@ -1,0 +1,17 @@
+.TabbedPanel
+{
+    position: absolute;
+    overflow: auto;
+    right: 0;
+    top: 32px;
+    bottom: 0;
+    width: 300px;
+    background: #eee;
+}
+
+.TabbedPanel .Panel
+{
+    position: relative;
+    display: block;
+    width: 100%;
+}
