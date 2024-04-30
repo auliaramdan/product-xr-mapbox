@@ -8,7 +8,8 @@ export default defineConfig({
             input: {
                 main: resolve(__dirname, 'index.html'),
                 'mapbox-potree': resolve(__dirname, 'mapbox-potree/index.html'),
-                'mapbox-threejs': resolve(__dirname, 'mapbox-threejs/index.html')
+                'mapbox-threejs': resolve(__dirname, 'mapbox-threejs/index.html'),
+                'mapbox-marker': resolve(__dirname, 'mapbox-marker/index.html')
             },
         }
     },

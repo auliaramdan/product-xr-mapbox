@@ -1,0 +1,29 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+    {
+        "type": "Feature",
+        "properties": {
+            "description": "Markas Besar",
+            "time": 1714445922,
+            "image": "../resources/images/LT1-PCK25-1.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [112.63693, -7.92734]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "description": "Markas Besar 2",
+            "time": 1714445916,
+            "image": "../resources/images/LT1-PCK25-2.jpg"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [112.63694, -7.92750]
+        }
+    }
+]
+}
